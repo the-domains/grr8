@@ -1,4 +1,3 @@
-layout_spectrum: 0.7001314531080425
 typography_spectrum: 0.193290222203359
 color:
   brandStrength: 0.08656368148513138
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.7001314531080425
 name: grr8
 title: martín garrocho
+description: 'Creative Director from the Atlantic, living in the pacific.'
