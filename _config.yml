@@ -1,0 +1,14 @@
+layout_spectrum: 0.7001314531080425
+typography_spectrum: 0.193290222203359
+color:
+  brandStrength: 0.08656368148513138
+  lightness: 0.7860566198360175
+  saturation: 0.6228394403588027
+  rhythmicContrast: 0.8997844755649567
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: grr8
