@@ -1,16 +1,28 @@
-typography_spectrum: 0.193290222203359
+title: martín garrocho
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6899642
   brandStrength: 0.08656368148513138
-  lightness: 0.7860566198360175
-  saturation: 0.6228394403588027
-  rhythmicContrast: 0.8997844755649567
+  lightness: 0.7939068
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.7001314531080425
-name: grr8
-title: martín garrocho
+  rhythmicContrast: 0.8997844
+typography_spectrum: 1
 description: 'Creative Director from the Atlantic, living in the pacific.'
+layout_spectrum: 0.7992831
+name: grr8
