@@ -5,24 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6899642
-  brandStrength: 0.08656368148513138
+  brandStrength: 0.1057348
   lightness: 0.7939068
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#000000'
+    - '#BBBBBB'
+    - '#434343'
+    - '#868686'
   rhythmicContrast: 0.8997844
 typography_spectrum: 1
 description: 'Creative Director from the Atlantic, living in the pacific.'
-layout_spectrum: 0.7992831
+layout_spectrum: 0.5430108
 name: grr8
